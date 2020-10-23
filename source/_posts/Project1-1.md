@@ -90,7 +90,7 @@ like dreams have the basis of reality or experience.
 
 {% asset_img 6.jpg 6 %}
 
-### 2020.10.19^xix\ xx^
+### 2020.10.19[^xix][^xx]
 
 I rethought the concept of story, and I was always confused about what I
 could do. I like this absurd but romantic feeling. I had several ideas
@@ -149,7 +149,7 @@ up all of a sudden can be identified as an element of terror. So terror
 should not be routinely added, or even customized, in a sense.
 
 Another interesting point is that when I looked at Pierre Huyghe\'s
-HUMAN MASK^xviii^ it wasn\'t immediately clear to me that it was
+HUMAN MASK[^xviii] it wasn\'t immediately clear to me that it was
 actually a macaque rather than a man, and I know a few close-up shots of
 the ball of his foot. So the mask is a direct bridge into a character,
 it connects two different objects, I am full of surrealist ideas.
@@ -164,7 +164,7 @@ development along the way of one thing or sorts of objects.
 
 [The choice of collection]{.ul}: After browsing many exhibits, I decided
 to find a series of products belonging to the extension of \"Alice in
-Wonderland\" in the Victoria and Albert Museum^i^ (V&A Museum). These
+Wonderland\" in the Victoria and Albert Museum[^i] (V&A Museum). These
 products recreate the wonderful elements of the original \"Alice in
 Wonderland\" book.
 
@@ -181,75 +181,75 @@ of the game should also be included: poker or chess.
 
 Some objects selected:
 
-> **Drawing - Alice in Wonderland - Forestier, Amedée^ii^**
+> **Drawing - Alice in Wonderland - Forestier, Amedée[^ii]**
 >
-> **Set of figures-Talfourd Toys (makers)^iii^**
+> **Set of figures-Talfourd Toys (makers)[^iii]**
 >
-> **Screenprint-Sir Peter Blake, Kelpra Studios (printers)^iv^**
+> **Screenprint-Sir Peter Blake, Kelpra Studios (printers)[^iv]**
 >
-> **Costume design-Calthrop, Gladys (designers)^v-ix^**
+> **Costume design-Calthrop, Gladys (designers)[^v][^vi][^vii][^viii][^ix]**
 >
-> **Magic lantern slide^x^**
+> **Magic lantern slide[^x]**
 >
 > **Board game - Alice Through the Looking Glass Chess Set-Dale, Nell**
-> **(maker) Dale, Robin (maker)^xi^**
+> **(maker) Dale, Robin (maker)[^xi]**
 >
-> **Figure - The Dacre Dolphin-Unknown^xii^**
+> **Figure - The Dacre Dolphin-Unknown[^xii]**
 >
 > **Card game - Alice in Wonderland Misfitz-C. W. Faulkner & Co. Ltd.
-> (publisher)^xiii^**
+> (publisher)[^xiii]**
 >
 > **Card game - The New & Diverting Game of Alice in Wonderland-Thomas
-> de la Rue & Co Ltd (publisher)^xiv^**
+> de la Rue & Co Ltd (publisher)[^xiv]**
 >
-> **Puppet - March Hare-Pelham Puppets Ltd (designer and maker)^xv^**
+> **Puppet - March Hare-Pelham Puppets Ltd (designer and maker)[^xv]**
 >
 > **Set of magic lantern slides - Alice\'s Adventures in Wonderland-Sir
-> John Tenniel,(illustrator), E.G. Wood (publishers)^xvi^**
+> John Tenniel,(illustrator), E.G. Wood (publishers)[^xvi]**
 >
 > **Indoor firework - Alice in Wonderland Joy-Bom-Standard Fireworks
-> Ltd. (manufacturers)^xvii^**
+> Ltd. (manufacturers)[^xvii]**
 
 Cited:
 
-i.  <https://collections.vam.ac.uk>
+[^i]: <https://collections.vam.ac.uk>
 
-ii. <http://collections.vam.ac.uk/item/O1242097/alice-in-wonderland-drawing-forestier-amedee/>
+[^ii]: <http://collections.vam.ac.uk/item/O1242097/alice-in-wonderland-drawing-forestier-amedee/>
 
-iii. <http://collections.vam.ac.uk/item/O1120731/set-of-figures-talfourd-toys/>
+[^iii]: <http://collections.vam.ac.uk/item/O1120731/set-of-figures-talfourd-toys/>
 
-iv. <http://collections.vam.ac.uk/item/O1038254/screenprint-sir-peter-blake/>
+[^iv]: <http://collections.vam.ac.uk/item/O1038254/screenprint-sir-peter-blake/>
 
-v.  [http://collections.vam.ac.uk/item/O1247258/costume-design-calthrop-gladys/](i.%09http:/collections.vam.ac.uk/item/O1247258/costume-design-calthrop-gladys)
+[^v]: [http://collections.vam.ac.uk/item/O1247258/costume-design-calthrop-gladys/](i.%09http:/collections.vam.ac.uk/item/O1247258/costume-design-calthrop-gladys)
 
-vi. <http://collections.vam.ac.uk/item/O1247352/costume-design-calthrop-gladys/>
+[^vi]: <http://collections.vam.ac.uk/item/O1247352/costume-design-calthrop-gladys/>
 
-vii. <http://collections.vam.ac.uk/item/O1247347/costume-design-calthrop-gladys/>
+[^vii]: <http://collections.vam.ac.uk/item/O1247347/costume-design-calthrop-gladys/>
 
-viii. <http://collections.vam.ac.uk/item/O1247266/costume-design-calthrop-gladys/>
+[^viii]: <http://collections.vam.ac.uk/item/O1247266/costume-design-calthrop-gladys/>
 
-ix. <http://collections.vam.ac.uk/item/O1247349/costume-design-calthrop-gladys/>
+[^ix]: <http://collections.vam.ac.uk/item/O1247349/costume-design-calthrop-gladys/>
 
-x.  <http://collections.vam.ac.uk/item/O1121975/magic-lantern-slide/>
+[^x]: <http://collections.vam.ac.uk/item/O1121975/magic-lantern-slide/>
 
-xi. <http://collections.vam.ac.uk/item/O26138/alice-through-the-looking-glass-board-game-dale-nell/>
+[^xi]: <http://collections.vam.ac.uk/item/O26138/alice-through-the-looking-glass-board-game-dale-nell/>
 
-xii. <http://collections.vam.ac.uk/item/O49224/the-dacre-dolphin-figure-unknown/>
+[^xii]: <http://collections.vam.ac.uk/item/O49224/the-dacre-dolphin-figure-unknown/>
 
-xiii. <http://collections.vam.ac.uk/item/O26776/alice-in-wonderland-misfitz-card-game-c-w-faulkner/>
+[^xiii]: <http://collections.vam.ac.uk/item/O26776/alice-in-wonderland-misfitz-card-game-c-w-faulkner/>
 
-xiv. <http://collections.vam.ac.uk/item/O26698/the-new-diverting-game-of-card-game-thomas-de-la/>
+[^xiv]: <http://collections.vam.ac.uk/item/O26698/the-new-diverting-game-of-card-game-thomas-de-la/>
 
-xv. <http://collections.vam.ac.uk/item/O1136262/march-hare-puppet-pelham-puppets-ltd/>
+[^xv]: <http://collections.vam.ac.uk/item/O1136262/march-hare-puppet-pelham-puppets-ltd/>
 
-xvi. <http://collections.vam.ac.uk/item/O1126950/alices-adventures-in-wonderland-set-of-magic-sir-john-tenniel/>
+[^xvi]: <http://collections.vam.ac.uk/item/O1126950/alices-adventures-in-wonderland-set-of-magic-sir-john-tenniel/>
 
-xvii. <http://collections.vam.ac.uk/item/O1399272/alice-in-wonderland-joy-bom-indoor-firework-standard-fireworks-ltd/>
+[^xvii]: <http://collections.vam.ac.uk/item/O1399272/alice-in-wonderland-joy-bom-indoor-firework-standard-fireworks-ltd/>
 
-xviii. [Huyghe, P. (Director). (2015). Human mask \[Video file\].
+[^xviii]: [Huyghe, P. (Director). (2015). Human mask \[Video file\].
        Retrieved 2020, from
        https://www.youtube.com/watch?v=Tk4gJBoYyhU](https://www.youtube.com/watch?v=Tk4gJBoYyhU)
 
-xix. <https://www.pinterest.com/pin/ATw5ZhZ3I2g-D1RWBiYKrNzRaU-AvjTcV8SpWvXkDNiQSMMJz0FOBhU/>
+[^xix]: <https://www.pinterest.com/pin/ATw5ZhZ3I2g-D1RWBiYKrNzRaU-AvjTcV8SpWvXkDNiQSMMJz0FOBhU/>
 
-xx. <https://www.pinterest.com/pin/39195459226695695/>
+[^xx]: <https://www.pinterest.com/pin/39195459226695695/>
